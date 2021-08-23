@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AmAanSaiFi
-- 👀 I’m interested in Machine Learning
-- 🌱 I’m currently learning Deep Learning
+- 👀 I’m interested in Machine Learning and Neural Networks
+- 🌱 I’m currently working on Deep Learning Projects.
 - 💞️ I’m looking to collaborate on Real Time projects based on DL/ML.
 - 📫 How to reach me - can contact me through my email
 amaan.saifi123@gmail.com
